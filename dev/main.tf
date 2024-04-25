@@ -1,3 +1,3 @@
 module "dev" {
-    soruce = "../modules/blog"
+    source = "../modules/blog"
 }
